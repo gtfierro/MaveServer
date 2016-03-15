@@ -1,0 +1,11 @@
+# python files
+*.pyc
+
+# redis disk
+dump.rdb
+
+# bower components
+static/bower_components/*
+
+# virtual env
+venv/*
